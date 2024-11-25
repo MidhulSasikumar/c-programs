@@ -9,6 +9,6 @@ int main()
 	{
 		f=i*f;
 	}
-	printf("factorial of %d is %d:",n,f);
+	printf("factorial of %d : %d",n,f);
 	return 0;
 }
